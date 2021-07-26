@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842507322831",
+    "project_id": "blog-app-ae9c3",
+    "storage_bucket": "blog-app-ae9c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842507322831:android:cb847609b294b1bbc27eba",
+        "android_client_info": {
+          "package_name": "com.axellsolis.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842507322831-0c091ndkhmp6av34b0k2t0ajdoatol43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFvdK8A5XJsUfJBdAEcwbwtZTBRAY_Uvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842507322831-0c091ndkhmp6av34b0k2t0ajdoatol43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
